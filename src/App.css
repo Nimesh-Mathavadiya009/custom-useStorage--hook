@@ -1,0 +1,25 @@
+#root{
+  height: 100vh;
+  width: 100%;
+  background-color: #543434;
+}
+
+#main{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#container{
+  width: 150px;
+  height: 250px;
+}
+
+.fields{
+  margin: 5px;
+  padding: 5px;
+}
+
+
